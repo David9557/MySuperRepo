@@ -1,7 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-Best school
-
-=======
 echo "Best School"
->>>>>>> origin/update_script
